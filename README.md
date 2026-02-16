@@ -1,7 +1,5 @@
 ## Hi there 👋
-<p align="center">
-  <img src="banner.gif" alt="Banner" />
-</p>
+
 
 <!--
 **Andrea2301/Andrea2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
